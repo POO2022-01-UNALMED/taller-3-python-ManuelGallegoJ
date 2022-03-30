@@ -28,4 +28,4 @@ class Control:
     def volumenUp(self):
 	    self.tv.volumenUp(self)
     def volumenDown(self):
-	    self.tv.volumenDown(selfv)
+	    self.tv.volumenDown(self)
