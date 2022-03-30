@@ -21,11 +21,11 @@ class Control:
 	    self.tv.setCanal(canal)	
         
     def canalUp(self):
-	    self.tv.canalUp()
+	    self.tv.canalUp(self)
     def canalDown(self):
-	    self.tv.canalDown
+	    self.tv.canalDown(self)
 	
     def volumenUp(self):
-	    self.tv.volumenUp
+	    self.tv.volumenUp(self)
     def volumenDown(self):
-	    self.tv.volumenDown
+	    self.tv.volumenDown(selfv)
